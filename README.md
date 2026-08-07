@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Jayachandra Vandanapu 👋
 
-<!--
-**JayachandraV16/JayachandraV16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology @ PICT, Pune
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend Development
+- Java & Spring Boot
+- C++ & Data Structures
+- Python
+- Machine Learning
+- Docker & Git
+- SQL
+
+## Tech Stack
+
+### Languages
+- C++
+- Java
+- Python
+- SQL
+
+### Backend
+- Spring Boot
+- FastAPI
+- REST APIs
+
+### Databases
+- MySQL
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- Docker
+- Linux
+
+## Featured Projects
+
+### 📈 PfRadar
+Portfolio Analytics & Optimization Platform
+
+Tech:
+Python • CAPM • Modern Portfolio Theory
+
+---
+
+### ⚡ Electricity Bill Management System
+
+Spring Boot based backend application.
+
+---
+
+### 🤖 Enterprise Knowledge Assistant
+
+RAG based knowledge assistant using
+React + Spring Boot + FastAPI + ChromaDB + Ollama
+
+---
+
+## LeetCode
+
+236+ Problems Solved in C++
+
