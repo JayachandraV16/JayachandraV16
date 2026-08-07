@@ -36,7 +36,7 @@ currently_building:
 
 <br/>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -68,8 +68,7 @@ currently_building:
 
 </div>
 
-
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
@@ -79,10 +78,6 @@ currently_building:
 <a href="https://leetcode.com/u/Jayachandra16V/">
   <img src="https://img.shields.io/badge/View_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Jayachandra16V&label=Profile%20Views&color=6366f1&style=for-the-badge"/>
 
 <br/><br/>
 
