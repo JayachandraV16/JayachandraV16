@@ -1,7 +1,7 @@
 <div align="center">
 
-# Hi, I'm Jayachandra Vandanapu 👋
-🎓 B.Tech Information Technology @ PICT, Pune
+# Hi, I'm Jayachandra Vandanapu 
+ B.Tech Information Technology @ PICT, Pune
 
 <a href="https://linkedin.com/in/jayachandra-vandanapu-65097632a">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -15,13 +15,13 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems+%E2%9A%99%EF%B8%8F;Java+%7C+Spring+Boot+%7C+C%2B%2B;RAG+%2F+LLM+%2F+Applied+ML+%F0%9F%A4%96;236%2B+LeetCode+Problems+Solved+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems+%E2%9A%99%EF%B8%8F;Java+%7C+Spring+Boot+%7C+C%2B%2B;RAG+%2F+LLM+%2F+Applied+ML+%F0%9F%A4%96;200%2B+LeetCode+Problems+Solved+%F0%9F%94%A5" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-## 🧭 About Me
+##  About Me
 
 ```yaml
 name: Jayachandra Vandanapu
